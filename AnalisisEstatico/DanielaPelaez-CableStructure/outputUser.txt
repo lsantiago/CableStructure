@@ -1,0 +1,45 @@
+                                       "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA"                                    
+                                            TITULACIÓN DE INGENIERÍA CIVIL                                         
+                                   LABORATORIO VIRTUAL DE INGENIERÍA SÍSMICA (VLEE)                                
+                                                                                                                   
+                                                                                                                   
+LABORATORIO:      CABLES - STRUCTURES                                                                              
+EXPERIMENTO:      Análisis Estático de Cables con Cargas distribuidas uniformemente a lo largo de líneas rectas    
+CASO       :      1   : Ho<Hf : La flecha en el punto O es menor a la flecha del punto F                           
+FECHA      :      24-Aug-2016 09:11:38
+                                                                                                                   
+                                                                                                                   
+-------------------------------------------------------------------------------------------------------------------
+                                                                                                                   
+DATOS DE ENTRADA                                                                                                   
+                                                                                                                   
+                                                                                                                   
+                   Detalle              |  Símbolo  |  Unidades |   Magnitud
+          ------------------------------|-----------|-----------|------------
+           Altura o flecha del punto O  |    Ho     |     m     |  3
+           Altura o flecha del punto F  |    Hf     |     m     |  4.5
+           Vano entre el punto O y F    |    L      |     m     |  7.5
+           Carga distribuida lìnea recta|    Wo     |     KN    |  8.76
+           Distancia entre tensores     |    Wo     |     m     |  0.5
+                                                                                                                  
+------------------------------------------------------------------------------------------------------------------
+                                                                                                                  
+DATOS DE SALIDA                                                                                                   
+                                                                                                                  
+                                                                                                                  
+                   Detalle              |  Símbolo  |  Unidades |   Magnitud
+          ------------------------------|-----------|-----------|------------
+           Tensión mímima               |    Tmin   |     KN    |  16.5926
+           Tensión punto O              |    To     |     KN    |  33.8736
+           Tensión punto F              |    Tf     |     KN    |  39.7929
+           Tensión máxima               |    Tmax   |     KN    |  39.7929
+           Tensión en los Tensores      |    Tten   |     KN    |  4.38
+           Número de Tensores           |    Nten   |     #     |  15
+           Longitud del Cable           |    S      |     m     |  11.1024
+           Distancia o vano punto O     |    Lo     |     m     |  -3.3712
+           Distancia o vano punto F     |    Lf     |     m     |  4.1288
+           Dist. punto O y Tensor       |    DTo    |     m     |  0.25
+           Dist. punto F y Tensor       |    DTf    |     m     |  0.25
+                                                                                                                  
+                                                                                                                  
+------------------------------------------------------------------------------------------------------------------
